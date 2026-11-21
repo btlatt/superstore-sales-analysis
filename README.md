@@ -1,12 +1,8 @@
 # 超市销售数据分析（Superstore）
 
-# 超市销售数据分析（Superstore）
-
 基于 Superstore 公开数据集（2014-2017）的销售与利润分析，使用 Python 完成数据清洗、探索与可视化。
 
 数据来源：[Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
-![品类利润率](fig1_品类利润率.png)
 
 ![品类利润率](fig1_品类利润率.png)
 
