@@ -53,3 +53,4 @@ SQL 结果与 pandas 结果一致，已完成交叉验证。
 ## 8. Tableau 看板
 
 交互式看板已发布到 Tableau Public：[Superstore 销售利润分析看板](https://public.tableau.com/app/profile/.17934702/viz/SuperstoreSalesProfitAnalysis_17954380824070/Superstore)
+![Tableau看板](fig4_tableau看板.png)
