@@ -38,4 +38,18 @@
 - 原始数据存在编码与引号格式问题，已修复并去除 1 条重复记录。
 
 ## 6. 工具
-Python（pandas、matplotlib）、Jupyter Notebook
+Python（pandas、matplotlib）、SQL（SQLite）、Tableau、Jupyter Notebook
+
+## 7. SQL 分析
+
+使用 SQLite 数据库完成 SQL 部分分析，完整查询与结果见 [sql_analysis.md](sql_analysis.md)。
+
+- Furniture 利润显著低于其他品类；
+- Texas、Ohio、Pennsylvania、Illinois 为亏损主要州；
+- 折扣超过 20% 后平均利润转负，5 折亏损最深，主要来自 Tables、Machines、Bookcases 等高单价品类。
+
+SQL 结果与 pandas 结果一致，已完成交叉验证。
+
+## 8. Tableau 看板
+
+交互式看板已发布到 Tableau Public：[Superstore 销售利润分析看板](https://public.tableau.com/app/profile/.17934702/viz/SuperstoreSalesProfitAnalysis_17954380824070/Superstore)
